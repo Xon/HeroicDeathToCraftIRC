@@ -1,0 +1,5 @@
+Simple Heroic Death to CraftIRC bridge plugin.
+
+Two configuration options;
+- Strip colors true/false (would convert to irc colors, but CraftIRC doesn't expose this)
+- Tag to send chat to.

@@ -1,0 +1,5 @@
+name: HeroicDeathToCraftIRC
+
+main: org.Bukkitdev.Xon.HeroicDeathToCraftIRC
+
+version: 0.0.1
