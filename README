@@ -5,4 +5,4 @@ Two configuration options;
 - Tag to send chat to.
 
 For the latest CraftIRC's configuration; ensure there is a "custom: true" in the events block.
-Thanks doughsay - ref [issue #1](https://github.com/Xon/HeroicDeathToCraftIRC/issues/1)
+Thanks doughsay - ref (issue #1)[https://github.com/Xon/HeroicDeathToCraftIRC/issues/1]
